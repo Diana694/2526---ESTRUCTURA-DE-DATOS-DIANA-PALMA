@@ -38,7 +38,7 @@ class Program
         estudiante.Direccion = "Av. Francisco de orellana";
 
         // Asignar valores al array de teléfonos
-        estudiante.Telefonos[0] = "0982593744";
+        estudiante.Telefonos[0] = "0982393744";
         estudiante.Telefonos[1] = "0987654322";
         estudiante.Telefonos[2] = "0971122333";
 
