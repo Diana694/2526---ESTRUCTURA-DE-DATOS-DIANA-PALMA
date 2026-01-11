@@ -1,0 +1,15 @@
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\bin\Debug\net10.0\semana05.exe
+C:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\bin\Debug\net10.0\semana05.deps.json
+C:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\bin\Debug\net10.0\semana05.runtimeconfig.json
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\bin\Debug\net10.0\semana05.dll
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\bin\Debug\net10.0\semana05.pdb
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\obj\Debug\net10.0\semana05.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\obj\Debug\net10.0\semana05.AssemblyInfoInputs.cache
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\obj\Debug\net10.0\semana05.AssemblyInfo.cs
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\obj\Debug\net10.0\semana05.csproj.CoreCompileInputs.cache
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\obj\Debug\net10.0\semana05.sourcelink.json
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\obj\Debug\net10.0\semana05.dll
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\obj\Debug\net10.0\refint\semana05.dll
+c:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\obj\Debug\net10.0\semana05.pdb
+C:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\obj\Debug\net10.0\semana05.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\2526---ESTRUCTURA-DE-DATOS-DIANA-PALMA\semana05\obj\Debug\net10.0\ref\semana05.dll
